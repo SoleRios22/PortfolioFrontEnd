@@ -1,0 +1,100 @@
+{
+	
+	 	"id":1,
+	   		"nombre":"María Soledad Ríos",
+	   		"dni":"26957338",
+	   		"direccion":"Adán Quiroga 922",
+	   		"telefono":"35843153322",
+	   		"titulo":"Analista en Computación",
+	   		"informacion":"Hace años me recibi de Analista en computación en la universidad nacional de Río Cuarto, nunca ejerci porque me dideque a mi familia. Soy madre de 3 niños varones, que van creciendo a pasos gigantes. Por eso comence a capacitarme y actualizarme en la programción para poder de una vez por todas dedicarme a lo que me apasiona. Me gusta mucho aprender cosas nuevas.",
+	 		"imagen":"../../../assets/fotoSole.png",
+			"ubicacion":"Río Cuarto, Córdoba",
+			"banner":"../../../assets/banner.gif",
+
+			"Educacion":[
+				{
+					"titulo":"Analista en Computación",
+					"institucion":"Universidad Nacional de Rio Cuarto",
+					"logo":"../../../assets/escudounrc.jpg",
+					"fecha":"02/10/2003"
+			},
+				{
+					"titulo":"Full Stack Developer",
+					"institucion":"Plan nacional, federal e inclusivo de formación en programación y software. Argentina Programa",
+					"logo":"../../../assets/yoprogramo.png",
+					"fecha":"15/05/2023"
+			},
+			{
+					"titulo":"Inglés Técnico para Desarrolladores-Nivel 2",
+					"institucion":"Centro Universitario de Idiomas",
+					"logo":"../../../assets/CUI.png",
+					"fecha":"23/03/2023"
+			}
+			],
+
+			"Experiencia":[
+				{
+					"empresa":"Universida Nacional de Río Cuarto",
+					"puesto":"Ayudante de segunda",
+					"logo_empresa":"../../../assets/escudounrc.jpg",
+					"fecha_inicio":"02/10/2003",
+					"fecha_fin":"02/10/2003"
+			},
+				{
+					"empresa":"Escuela Mercedes del niño Jesús",
+					"puesto":"Docente segundo ciclo de informatica",
+					"logo_empresa":"../../../assets/escudounrc.jpg",
+					"fecha_inicio":"02/10/2003",
+					"fecha_fin":"02/10/2003"
+			},
+			{
+				"empresa":"Grupo Sauken SA",
+				"puesto":"Directora",
+				"logo_empresa":"../../../assets/escudounrc.jpg",
+				"fecha_inicio":"02/10/2003",
+				"fecha_fin":"02/10/2003"
+			}
+			],
+			"Habilidad":[
+			{
+				"nombre_habilidad":"html",
+				"porcentaje":"90",
+				"logo":"../../../assets/html.png"
+			},
+			{
+				"nombre_habilidad":"css",
+				"porcentaje":"75",
+				"logo":"../assets/CSS.png"
+			},
+			{
+				"nombre_habilidad":"javascrip",
+				"porcentaje":"90",
+				"logo":"../assets/js.png"
+			},
+			{
+				"nombre_habilidad":"github",
+				"porcentaje":"30",
+				"logo":"../assets/git.png"
+			},
+			{
+				"nombre_habilidad":"ingles",
+				"porcentaje":"80",
+				"logo":"../assets/eng.png"
+			},
+			{
+				"nombre_habilidad":"grupal",
+				"porcentaje":"95",
+				"logo":"../assets/grupal.png"
+			}
+			],
+			"Proyectos":[
+				{
+					"nombre":"Portfolio web",
+					"descripcion":"Proyecto de finalización de capacitación de Argentina Programa",
+					"fecha":"15/05/2023",
+					"enlace":"www.miproyecto.com",
+					"imagen":"../../../assets/proyecto.png"
+			}
+				
+			]
+		}
